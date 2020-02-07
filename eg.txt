@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Assignment</title>
+</head>
+<body>
+<img src="C:\Users\Jeevana\Desktop">
+<marquee dir="right">This is assignment</marquee>
+<p id="para1"style:color="blue;">This is first paragraph</p>
+<br />
+<br />
+<br />
+
+<p id="para2"style:color="green;">This is second paragraph</p>
+<br />
+<br />
+<br />
+
+<p id="para3"style:color="yellow;">This is third paragraph</p>
+<br />
+<br />
+<br />
+
+<p id="para4"style:color="red;">This is fourth paragraph</p>
+<br />
+<br />
+<br />
+
+<p id="para5"style:color="gray;">This is second paragraph</p>
+<br />
+<br />
+<br />
+
+<p id="para6"style:color="orange;">This is second paragraph</p>
+<br />
+<br />
+<br 
+
+
+
+<p id="para7"style:color="brown;">This is second paragraph</p>
+<br />
+<br />
+<br />
+
+<a href="#para1">top</a>
+<a href="#para7">last</a>
+<br />
+</body>
+</html>
