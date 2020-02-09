@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Lab</title>
+</head>
+<body>
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+<mapname="workmap">
+<area shape="rect" coords="33,44,270,347" alt="computer" href="act1.html">
+<area shape="circle" coords="337,300,44" alt="coffee"  href="act2.html">
+<area shape="rect" coords="290,172,332,248" alt="mobile"  href="act3.html">
+</map>
+</body>
+</html>
